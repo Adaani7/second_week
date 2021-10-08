@@ -175,3 +175,12 @@ body{
     grid-column: span 4;
   }
 }
+
+@media screen and (min-width: 480px) {
+  body{
+    background-color: #7FFFD4	;
+  }
+@media screen and (min-width: 600px) {
+    body{
+      background-color: #FFA07A	;
+    }
